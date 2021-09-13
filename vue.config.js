@@ -97,6 +97,6 @@ module.exports = {
           })
           config.optimization.runtimeChunk('single')
         }
-      )
+    )
   }
 }
