@@ -8,7 +8,7 @@ git clone https://github.com/xiangweiyun/vue-elementUI-web.git
 npm install
 
 // 开发
-npm run dev
+npm run serve
 ```
 
 
